@@ -7,7 +7,7 @@ Esse projeto foi realizado a pedido do professor Fabio Lucio Meira, no mesmo foi
 
 ## Demonstração
 
-![Saído no terminal](250520_12h13m20s_screenshot.png)
+![Saído no terminal](images/250520_12h13m20s_screenshot.png)
 
 
 ## Como Rodar
@@ -21,7 +21,7 @@ Você pode rodar o bytecode compilado diretamente ultilizando o comando:
 No diretório:
 
 ```bash
-  out/production/dataGen/
+  out/production/DataGen/
 ```
 
 Ou exportar e rodar pela sua IDE de preferência.
