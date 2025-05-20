@@ -30,10 +30,10 @@ public class Main {
         report.setGenerationDate("21-05-2025");
         report.setContent("Content A");
 
-        report.setTitle("Report of the Year");
-        report.setAuthor("Thiago");
-        report.setGenerationDate("21-05-2025");
-        report.setContent("Content B");
+        secondReport.setTitle("Report of the Year");
+        secondReport.setAuthor("Thiago");
+        secondReport.setGenerationDate("21-05-2025");
+        secondReport.setContent("Content B");
 
         System.out.println("======= Original Contract =======");
         System.out.println("Number: " + c.getNumber());
